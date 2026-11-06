@@ -207,4 +207,4 @@ Comodo Firewall is offered as a full free version, containing all features and u
 Take control of your online safety today! Download **Comodo Firewall** for free and secure your Windows PC effortlessly.
 
 ---
-**Last updated:** 2026-11-05 19:47:28 UTC
+**Last updated:** 2026-11-06 00:52:15 UTC
